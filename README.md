@@ -1,2 +1,1 @@
-# codealpha_tasks
-CodeAlpha Internship Projects.
+Some Basic Projects.
