@@ -1,25 +1,31 @@
-Image Gallery:
+# 🖼️ Image Gallery Web App
 
-This project is a dynamic image gallery created with HTML, CSS, and JavaScript. It showcases a collection of images in an interactive and visually appealing layout.
+A sleek and interactive **Image Gallery** built using **HTML, CSS, and JavaScript**.  
+This project provides a user-friendly way to browse and view images with smooth transitions and responsive design.
 
-Features:
+---
 
-User-friendly interface with responsive design.
+## 🚀 Features
 
-Clickable thumbnails that open images in a larger view.
+- 📱 **Responsive Design**  
+  Works seamlessly across desktop, tablet, and mobile devices.
 
-Navigation buttons to browse through images.
+- 🖼️ **Clickable Thumbnails**  
+  Thumbnails open images in a larger view for better visibility.
 
-Smooth transition effects for a better user experience.
+- ⬅️➡️ **Navigation Buttons**  
+  Easily browse through images using next/previous controls.
 
-Technologies Used:
+- ✨ **Smooth Transition Effects**  
+  Enhances user experience with elegant animations while switching images.
 
-HTML for the structure.
+---
 
-CSS for styling and animations.
+## 🌐 Live Demo
 
-JavaScript for interactivity and functionality.
+👉 [Click here to view the deployed app](https://utkarsh-image-gallery.netlify.app/)  
 
-Link to the site:
+---
 
-https://utkarsh-image-gallery.netlify.app/
+## 📂 Project Structure
+
