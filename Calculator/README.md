@@ -21,8 +21,6 @@ This project performs basic arithmetic operations with a user-friendly interface
 
 👉 [Click here to view the deployed app](https://utkarsh-calculator.netlify.app/)  
 
-*(Replace `#` with your actual deployed link, e.g. `https://yourusername.vercel.app`)*
-
 ---
 
 ## 📂 Project Structure
