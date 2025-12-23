@@ -1,25 +1,34 @@
-Animated Portfolio
+# 🌟 Animated Portfolio Web App
 
-This project is an animated portfolio website created with HTML, CSS, and JavaScript. It showcases your work and skills in an interactive and visually engaging manner.
+A modern and interactive **Animated Portfolio** built using **HTML, CSS, and JavaScript**.  
+This project showcases your work, skills, and personal information with smooth animations and a sleek design.
 
-Features:
+---
 
-Sleek, user-friendly interface with responsive design.
+## 🚀 Features
 
-Smooth animations and transitions to enhance the user experience.
+- 🖥️ **Sleek, User-Friendly Interface**  
+  Responsive design that adapts to all screen sizes.
 
-Sections for showcasing projects, skills, about me, and contact information.
+- 🎞️ **Smooth Animations & Transitions**  
+  Enhances user experience with elegant motion effects.
 
-Interactive elements like hover effects and clickable project links.
+- 📂 **Dedicated Sections**  
+  - **Projects** – Showcase your work with clickable links.  
+  - **Skills** – Highlight your technical expertise.  
+  - **About Me** – Share your background and journey.  
+  - **Contact Information** – Easy access for collaboration or inquiries.  
 
-Technologies Used:
+- 🖱️ **Interactive Elements**  
+  Hover effects and clickable project cards for engaging navigation.
 
-HTML for the structure.
+---
 
-CSS for styling and animations.
+## 🌐 Live Demo
 
-JavaScript for interactivity and functionality.
+👉 [Click here to view the deployed app](https://uam-portfolio.netlify.app/)  
 
-Link to the site:
+---
 
-https://uam-portfolio.netlify.app/
+## 📂 Project Structure
+
