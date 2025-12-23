@@ -18,5 +18,11 @@ This project helps users manage their daily tasks efficiently with features like
 
 ---
 
+## 🌐 Live Demo
+
+👉 [Click here to view the deployed app](https://utkarsh-todo.vercel.app/)  
+
+---
+
 ## 📂 Project Structure
 
