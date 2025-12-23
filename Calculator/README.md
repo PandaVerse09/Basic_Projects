@@ -1,25 +1,29 @@
-Simple Calculator:
+# 🔢 Simple Calculator Web App
 
-This project is a web-based calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
+A responsive and interactive **Calculator** built using **HTML, CSS, and JavaScript**.  
+This project performs basic arithmetic operations with a user-friendly interface.
 
-Features:
+---
 
-User-friendly interface with buttons for digits and operators.
+## 🚀 Features
 
-A clear button to reset the display.
+- ➕ **Addition**  
+- ➖ **Subtraction**  
+- ✖️ **Multiplication**  
+- ➗ **Division**  
+- 🧹 **Clear Button** – Reset the display instantly  
+- 🟰 **Equal Button** – Calculate and display the result  
+- 📱 **Responsive Design** – Works smoothly across devices  
 
-An equal button to calculate and display the result.
+---
 
-Responsive design that works well on different devices.
+## 🌐 Live Demo
 
-Technologies Used:
+👉 [Click here to view the deployed app](https://utkarsh-calculator.netlify.app/)  
 
-HTML for the structure.
+*(Replace `#` with your actual deployed link, e.g. `https://yourusername.vercel.app`)*
 
-CSS for styling.
+---
 
-JavaScript for functionality.
+## 📂 Project Structure
 
-Link to site: 
-
-https://utkarsh-calculator.netlify.app/
